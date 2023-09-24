@@ -51,6 +51,7 @@ let wordList = {
     '2592022':'FUZIL',
     '2692022':'BACIA',
     '2792022':'TUMBA',
+    '24092023':'ZANGA'
 }
 let ganhou = false
 let palavra_real = wordList[dataParsed];
